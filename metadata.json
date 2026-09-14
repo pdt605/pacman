@@ -1,0 +1,6 @@
+{
+  "name": "Professor Pac-Man",
+  "description": "An academic arcade maze game where the Professor chomps through homework assignments while avoiding student ghosts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
